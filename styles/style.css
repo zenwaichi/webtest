@@ -7,6 +7,7 @@ html {
 h1 {
   font-size: 60px;
   text-align: center;
+  text-shadow: 3px 3px 2px white;
 }
 
 p, li {
